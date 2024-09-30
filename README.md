@@ -2,42 +2,8 @@
 
  I’m Ehsan, currently working as a **Lecturer** in the Computer Science and Engineering (CSE) Department at [Brac University](https://cse.sds.bracu.ac.bd/). I recently graduated from [CSE, BUET](https://cse.buet.ac.bd/). My research interest lies in areas of systems, security, networking, databases, and applied machine learning
 
-- 🔭 I’m currently working on ***Multimodal NLP*** 
-- 🌱 I’m currently learning ***System Design*** and ***Functional Programming***
 - 💼 You can reach out to me for work opportunities if you think I am fit for a role (preferably *Research Engineer* role).
 - 💬 Reach me via [***mail***](mailto:ehsanul.kader16@gmail.com) 📫 or [***linkedin***](https://www.linkedin.com/in/ehsanulkader/) 🔗.
-
-<!-- <p align="center">
-<b><i>If you like my work, you can also support me by buying me a cup of coffee!</i></b>
-</p>
-<p align="center">
-<a href="https://www.buymeacoffee.com/zarif98sjs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
-<hr/>
-
-## ⌨️ ***Open-source contribution***
-  - [sagorbrur/bnlp](https://github.com/sagorbrur/bnlp): The most popular NLP library for Bengali Language
-  - [AbdullahO/tspdb](https://github.com/AbdullahO/tspdb): A prediction algorithm for time series data from MIT (NeurIPS 2020)
-  - [lightoj-dev/problem-tutorials](https://github.com/lightoj-dev/problem-tutorials): Competitive programming tutorials for LightOJ
-  - [mahdihasnat/MooDown](https://github.com/mahdihasnat/MooDown): A service to clone Moodle accounts
-
-
-## 📚 ***Academics***
-  
-Find everything related to my undergrad academic life here 
-
-  [![cse-buet-academics](https://img.shields.io/badge/zarif98sjs-cse--buet--academics-red?style=for-the-badge&color=red&logo=GitHub&logoColor=FFFFFF&link=https://github.com/zarif98sjs/cse-buet-academics)](https://github.com/zarif98sjs/cse-buet-academics)
-
-## 🖋️ ***Popular Writeups***
-  
-  🌟 [*`Red Black Tree : An Intuitive Approach`*](https://github.com/zarif98sjs/RedBlackTree-An-Intuitive-Approach) 🎴🌳
-
-  🌟 [*`Xv6 Memory Management Walkthrough`*](https://github.com/zarif98sjs/xv6-memory-management-walkthrough) 💽
-
-  🌟 [*`Yet Another C Compiler`*](https://github.com/zarif98sjs/Yet-Another-C-Compiler) 🎯
-
-  🌟 [*`The Hitchhiker's Guide to Linear Algebra`*](https://zarif98sjs.github.io/mindcraft/LA/) ♾️ 
- -->
 
 ## 🛠️ ***My Tech***
 
@@ -72,13 +38,13 @@ Find everything related to my undergrad academic life here
 </p>
 <p align="center">
 <a href="https://github.com/ehsanulkader">
-<img alt="ehsanulkader's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanulkader&langs_count=8&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
+<img alt="ehsanulkader's Top Language Stats" height="200px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanulkader&langs_count=10&count_private=true&layout=compact&theme=algolia&hide_border=true&hide=css,scss,html" /> </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=ehsanulkader&label=Profile%20Views&color=1&icon=8&pretty=true" />
 </a>
-</p>
+</p> -->
 
 
